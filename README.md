@@ -4,4 +4,4 @@ I'm a passionate Full Stack Developer based in Montréal with a keen interest in
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,nestjs,ts,js,cs,html,css,cypress,redux,reactivex,dotnet,firebase,bootstrap,materialui,mongodb,postgres,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,dotnet,nestjs,ts,js,cs,html,css,cypress,redux,reactivex,firebase,bootstrap,materialui,mongodb,postgres,docker,figma)](https://skillicons.dev)
