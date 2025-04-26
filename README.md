@@ -6,8 +6,7 @@ With a degree in software engineering from École Polytechnique de Montréal, I 
 
 ## Relevant experience
 
-I've worked in both small two-person teams and larger multidisciplinary teams.  
-I've gained varied experience working as a front-end developer at Ubisoft, notably on the LiveOps web application linked to the game *Rainbow Six Mobile*, in a government environment using older technologies, in mobile development at nventive for clients such as VCA and Cineplex, and in full-stack development at my last two jobs. 
+I've worked in both small two-person teams and larger multidisciplinary teams.  I've gained varied experience working as a front-end developer at Ubisoft, notably on the LiveOps web application linked to the game *Rainbow Six Mobile*, in a government environment at Minitère des Transport using older technologies, in mobile development at nventive for clients such as VCA and Cineplex, and in full-stack development at my last two jobs. 
 
 ## Tech Stack
 
