@@ -16,20 +16,18 @@ With a degree in software engineering from École Polytechnique de Montréal, I 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=MyDiagramEditor" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Sophaos/appointment-scheduler-dexiejs">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=appointment-scheduler-dexiejs" />
       </a>
     </td>
-    <td>
+  </tr>
+  <tr>
+  <td>
       <a href="https://github.com/Sophaos/appointment-scheduler">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=appointment-scheduler" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Sophaos/mini-mal-vue">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=mini-mal-vue" />
