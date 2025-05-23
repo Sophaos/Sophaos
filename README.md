@@ -2,6 +2,10 @@
 
 With a degree in software engineering from École Polytechnique de Montréal, I distinguished myself throughout my university career by completing four integration projects and four internships, each lasting four months. One of these internships led to a part-time job, then to a permanent full-time position. Currently a programmer for a small business, I'm also pursuing my professional development by creating various personal projects.
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,dotnet,nestjs,ts,js,cs,html,css,graphql,cypress,redux,reactivex,firebase,bootstrap,materialui,mongodb,postgres,docker,figma,azure,git,jest,postgres,redux,sentry,tailwind,prisma,visualstudio,vite,vscode)](https://skillicons.dev)
+
 ## Repos
 
 <table>
@@ -49,7 +53,3 @@ With a degree in software engineering from École Polytechnique de Montréal, I 
     </td> -->
   </tr>
 </table>
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,dotnet,nestjs,ts,js,cs,html,css,graphql,cypress,redux,reactivex,firebase,bootstrap,materialui,mongodb,postgres,docker,figma,azure,git,jest,postgres,redux,sentry,tailwind,prisma,visualstudio,vite,vscode)](https://skillicons.dev)
