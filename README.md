@@ -1,12 +1,54 @@
-# Hi there, I'm Son-Thang ! 👋
-
 ## About me
 
-With a degree in software engineering from École Polytechnique de Montréal, I distinguished myself throughout my university career by completing four integration projects and four internships, each lasting four months. One of these internships led to a part-time job, then to a permanent full-time position. Currently a programmer for a small on-call company, I'm also pursuing my professional development by creating various personal projects.
+With a degree in software engineering from École Polytechnique de Montréal, I distinguished myself throughout my university career by completing four integration projects and four internships, each lasting four months. One of these internships led to a part-time job, then to a permanent full-time position. Currently a programmer for a small business, I'm also pursuing my professional development by creating various personal projects.
 
-## Relevant experience
+## Repos
 
-I've worked in both small two-person teams and larger multidisciplinary teams.  I've gained varied experience working as a front-end developer at Ubisoft, notably on the LiveOps web application linked to the game *Rainbow Six Mobile*, in a government environment at Ministère des Transports using older technologies, in mobile development at nventive for clients such as VCA and Cineplex, and in full-stack development at my last two jobs. 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Sophaos/web-app-recipe-scraper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=web-app-recipe-scraper" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sophaos/MyDiagramEditor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=MyDiagramEditor" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sophaos/appointment-scheduler-dexiejs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=appointment-scheduler-dexiejs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sophaos/appointment-scheduler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=appointment-scheduler" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sophaos/mini-mal-vue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=mini-mal-vue" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sophaos/mini-mal-ng">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=mini-mal-ng" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sophaos/mini-trello-with-auth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sophaos&repo=mini-trello-with-auth" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
